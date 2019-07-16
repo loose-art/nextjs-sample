@@ -1,8 +1,8 @@
 {
   "name": "nextjs-sample",
   "version": "1.0.0",
-  "description": "git@github.com:loose-art/nextjs-sample.git",
-  "main": "index.js",
+  "description": "It is a sample product using next.js",
+  "repository": "git@github.com:loose-art/nextjs-sample.git",
   "scripts": {
     "dev": "next",
     "build": "next build",
