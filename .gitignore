@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Next build
+.next
+
+# Next export
+out
+
+# PWA's file
+sw.*
